@@ -1,7 +1,7 @@
 {
   "name": "dummy-fs",
   "version": "1.0.0",
-  "main": "lib/index.js",
+  "main": "lib/dummy-fs.js",
   "repository": "git@github.com:proprogrammer2015/dummy-fs.git",
   "author": "Jacek Mankowski <it.developer.1992@gmail.com>",
   "license": "MIT",
