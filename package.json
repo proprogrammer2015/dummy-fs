@@ -1,6 +1,6 @@
 {
   "name": "dummy-node-fs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/dummy-node-fs.js",
   "repository": "git@github.com:proprogrammer2015/dummy-node-fs.git",
   "author": "Jacek Mankowski <it.developer.1992@gmail.com>",
