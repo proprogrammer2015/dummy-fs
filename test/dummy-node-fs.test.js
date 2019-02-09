@@ -1,5 +1,5 @@
 import test from 'ava';
-import dummyFs from '../src/dummy-fs'
+import dummyFs from '../src/dummy-node-fs'
 
 test.beforeEach(t => {
     t.context.fs = dummyFs({
